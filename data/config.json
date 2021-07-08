@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "ImMuhdFaizul Blog",
     "palette": "yellow",
     "header": {
         "title": "Muhammad Faizul",
@@ -57,5 +57,7 @@
                 "style": "link"
             }
         ]
-    }
+    },
+    "favicon": "images/1616472507505.jpg",
+    "domain": "immuhdfaizul.netlify.app"
 }
