@@ -1,9 +1,9 @@
-title: Stackbit Fjord Theme
+title: ImMuhdFaizul Blog
 baseURL: /
 taxonomies:
   stub: stub
 disableKinds:
-  - RSS
+  //- RSS
   - taxonomy
   - taxonomyTerm
 markup:
