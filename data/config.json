@@ -2,8 +2,8 @@
     "title": "ImMuhdFaizul Blog",
     "palette": "red",
     "header": {
-        "title": "#ImMuhdFaizul Blog",
-        "tagline": "Hey! I am Muhammad Faizul from Singapore.",
+        "title": "ImMuhdFaizul Blog",
+        "tagline": "Hey! I am Muhammad Faizul from Singapore. Nice to have you here!",
         "logo_img_alt": "ImMuhdFaizul Logo",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
@@ -65,15 +65,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; 2021 #ImMuhdFaizul. All rights reserved.",
-        "links": [
-            {
-                "label": "Generated from DEV",
-                "url": "https://dev.to/connecting-with-stackbit",
-                "new_window": true,
-                "style": "link"
-            }
-        ]
+        "content": "&copy; 2021 #ImMuhdFaizul. All rights reserved."
     },
     "favicon": "images/1616472507505.jpg",
     "domain": "immuhdfaizul.netlify.app"
