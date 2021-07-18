@@ -3,17 +3,17 @@ title: Home
 has_more_link: true
 more_link_text: Keep reading
 seo:
-  title: Stackbit Fjord Theme
-  description: The preview of the Fjord theme
+  title: #ImMuhdFaizul's Blog
+  description: The official web blog of Muhammad Faizul
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Fjord Theme
+      value: #ImMuhdFaizul's Blog
       keyName: property
     - name: 'og:description'
-      value: The preview of the Fjord theme
+      value: The official web blog of Muhammad Faizul
       keyName: property
     - name: 'og:image'
       value: images/home.jpg
@@ -22,9 +22,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Fjord Theme
+      value: #ImMuhdFaizul's Blog
     - name: 'twitter:description'
-      value: The preview of the Fjord theme
+      value: The official web blog of Muhammad Faizul
     - name: 'twitter:image'
       value: images/home.jpg
       relativeUrl: true
