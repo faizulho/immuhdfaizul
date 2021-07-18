@@ -2,8 +2,8 @@
     "title": "ImMuhdFaizul Blog",
     "palette": "red",
     "header": {
-        "title": "Muhammad Faizul",
-        "tagline": "I am Muhammad Faizul from Singapore.",
+        "title": "#ImMuhdFaizul Blog",
+        "tagline": "Hey! I am Muhammad Faizul from Singapore.",
         "logo_img_alt": "ImMuhdFaizul Logo",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
@@ -65,7 +65,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; 2021 #ImMuhdFaizul. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; 2021 #ImMuhdFaizul. All rights reserved.",
         "links": [
             {
                 "label": "Generated from DEV",
