@@ -1,10 +1,10 @@
 {
     "title": "ImMuhdFaizul Blog",
-    "palette": "yellow",
+    "palette": "red",
     "header": {
         "title": "Muhammad Faizul",
         "tagline": "I am Muhammad Faizul from Singapore.",
-        "logo_img_alt": "Fjord Logo",
+        "logo_img_alt": "ImMuhdFaizul Logo",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
         "nav_links": [
@@ -38,6 +38,23 @@
                 "icon_class": "twitter",
                 "new_window": true
             },
+
+            {
+                "label": "Instagram",
+                "url": "https://instagram.com/im.muhd.faizul",
+                "style": "icon",
+                "icon_class": "instagram",
+                "new_window": true
+            },
+
+            {
+                "label": "Facebook",
+                "url": "https://facebook.com/ImMuhdFaizul",
+                "style": "icon",
+                "icon_class": "facebook",
+                "new_window": true
+            },
+
             {
                 "label": "DEV",
                 "url": "https://dev.to/immuhdfaizul",
@@ -48,7 +65,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
+        "content": "&copy; 2021 #ImMuhdFaizul. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>",
         "links": [
             {
                 "label": "Generated from DEV",
