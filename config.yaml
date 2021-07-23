@@ -3,7 +3,7 @@ baseURL: /
 taxonomies:
   stub: stub
 disableKinds:
-  //- RSS
+  - RSS
   - taxonomy
   - taxonomyTerm
 markup:
